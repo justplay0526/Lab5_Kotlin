@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab5_Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="homepage">首頁</string>
+    <string name="leftslide">往左滑動</string>
+    <string name="rightslide">往右滑動</string>
+    <string name="pageone">第一頁</string>
+    <string name="pagetwo">第二頁</string>
+    <string name="pagethree">第三頁</string>
+</resources>
